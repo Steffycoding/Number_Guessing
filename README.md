@@ -1,2 +1,1 @@
-# Number_Guessing
-A Python project featuring a simple number guessing game. Play as a user or let the computer try to guess your number with various strategies. Have fun and challenge your guessing skills!
+Get ready for a laid-back Python experience with our Number Guessing Game! Whether you're up for testing the computer's smarts or showing off your own guessing knack, this project offers a casual and enjoyable way to pass the time. Jump into a world of number fun, where suspense meets simplicity, and have a good time playing this simple game.
